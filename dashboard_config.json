@@ -1,0 +1,6 @@
+{
+  "sheet": "Cleaned Sales Data",
+  "date": "Date",
+  "measures": ["Net Sales", "Gross Sales", "Gross Profit", "Quantity", "Cost of Sales"],
+  "dimensions": ["Category", "Outlet", "Sales Channel", "Brand", "Discount Band", "Margin Classification"]
+}
